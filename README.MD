@@ -4,6 +4,11 @@
 
 L'objectif de ce projet est d'optimiser l'utilisation des technologies intelligentes dans le domaine agricole. Il s'agit d'une continuation d'un projet initial développé dans le cadre de l'UE "Électronique et Interfaçage". Le système permet de mesurer les constituants essentiels du sol (azote, phosphore, potassium) et de prédire les cultures appropriées en fonction des données relevées.
 
+## schema Synoptique :
+![schema synoptique du montage]([chemin/vers/image.png](https://github.com/Electronique-Agriculture-intelligente/PROJET-COMPLET/blob/main/schemasynoptique.png))
+
+
+
 ### Limitations du Projet Initial
 L'analyse du système existant a révélé plusieurs limitations techniques majeures :
 1. Dysfonctionnement du montage électronique avec des lectures incorrectes des constituants du sol.
